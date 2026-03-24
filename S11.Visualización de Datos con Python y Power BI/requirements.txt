@@ -1,0 +1,6 @@
+pip install pandas
+pip install seaborn
+pip install openpyxl
+pip install matplotlib
+pip install sqlalchemy 
+pip install mysql-connector-python
